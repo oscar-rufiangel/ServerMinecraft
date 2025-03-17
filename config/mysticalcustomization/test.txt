@@ -1,0 +1,3 @@
+[20:20:44] [modloading-sync-worker/ERROR] [Mystical Customization/]: Error (Crop Tier): Creating mysticalcustomization:awakened: Missing value, expected to find a Int
+[20:20:45] [modloading-sync-worker/ERROR] [Mystical Customization/]: Error (Crops): Creating mysticalcustomization:allthemodium: Invalid crop tier: mysticalagriculture:awakened
+[20:20:45] [modloading-sync-worker/ERROR] [Mystical Customization/]: Error (Crops): Creating mysticalcustomization:allthemodium: Invalid crop type: mysticalagriculture:awakened

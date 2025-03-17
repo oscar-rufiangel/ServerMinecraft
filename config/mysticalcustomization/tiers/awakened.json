@@ -1,0 +1,8 @@
+{
+        "name": "Awakened",
+        "value": 7,
+        "farmland": "mysticalagriculture:supremium_farmland",
+        "essence": "mysticalagriculture:supremium_essence",
+        "fertilizable": true,
+        "secondarySeedDrop": false
+}

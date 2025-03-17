@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "stem": "mysticalagriculture:block/mystical_resource_crop"
+  },
+  "craftingSeed": "minecraft:netherite_block"
+}

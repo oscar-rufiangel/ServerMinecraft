@@ -1,0 +1,18 @@
+{
+     "name" : "Vibranium",
+     "type": "vibranium",
+     "tier": "mysticalcustomization:awakened",
+     "ingredient":{
+        "item": "allthemodium:allthemodium_ingot"
+     },
+     "color": "#4fb88e",
+     "textures":{
+        "flower": "mysticalagriculture:block/flower_ingot",
+        "essence": "mysticalagriculture:item/essence_ingot",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+     },
+
+     "essence": "allthemodium:allthemodium_block"
+
+
+}

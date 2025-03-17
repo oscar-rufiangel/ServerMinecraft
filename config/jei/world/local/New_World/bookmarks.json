@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:spruce_door"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tadpole_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
