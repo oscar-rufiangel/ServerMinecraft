@@ -1,0 +1,9 @@
+[
+    {
+        "mob": "minecraft:blaze",
+        "item": [
+            "minecraft:blaze_rod",
+            "create:experience_nugget"
+        ]
+    }
+]

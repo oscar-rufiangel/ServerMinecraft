@@ -3,7 +3,7 @@
      "type": "unobtanium",
      "tier": "mysticalcustomization:awakened",
      "ingredient":{
-        "item": "allthemodium:unobtanium_ingot"
+        "item": "allthemodium:unobtainium_ingot"
      },
      "color": "#730380",
      "textures":{
@@ -12,7 +12,7 @@
         "seeds": "mysticalagriculture:item/mystical_seeds"
      },
 
-     "essence": "minecraft:netherite_block"
+     "essence": "allthemodium:unobtainium_nugget"
 
 
 }

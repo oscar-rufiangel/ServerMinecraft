@@ -1,0 +1,15 @@
+{
+    "name": "Entro_dust",
+    "type": "mysticalagriculture:resouce",
+    "tier": "mysticalagriculture:4",
+    "ingredient": {
+        "item": "extendedae:entro_dust"
+    },
+    "color": "#309c39",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_ingot",
+        "essence": "mysticalagriculture:block/essence_dust",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    },
+    "essence": "extendedae:entro_dust"
+}
