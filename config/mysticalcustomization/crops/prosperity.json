@@ -1,6 +1,6 @@
 {
      "name" : "Prosperity",
-     "type": "resource",
+     "type": "mysticalagriculture:resource",
      "tier": "mysticalagriculture:1",
      "ingredient":{
         "item": "mysticalagriculture:prosperity_shard"
