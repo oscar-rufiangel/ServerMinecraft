@@ -40,5 +40,6 @@
   "minecraft:potion_effects": null,
   "minecraft:progress": null,
   "minecraft:redstone": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "pipez:pipe": null
 }

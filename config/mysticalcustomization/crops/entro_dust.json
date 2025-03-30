@@ -1,6 +1,6 @@
 {
     "name": "Entro_dust",
-    "type": "mysticalagriculture:resouce",
+    "type": "resource",
     "tier": "mysticalagriculture:4",
     "ingredient": {
         "item": "extendedae:entro_dust"
